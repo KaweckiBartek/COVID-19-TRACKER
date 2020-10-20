@@ -1,3 +1,20 @@
+Covid-19 Real-time full responsive tracker
+
+It is an application that allows you to observe infections, healings, deaths and the daily increase of covid-19.
+It is updated in real time thanks to Api from Diease.sh
+
+try it:
+Hosting URL: https://covid-19-tracker-b3352.web.app
+
+Used tech:
+React.js
+JavaScript
+Node.js
+HTML
+CSS
+diease.sh API
+FIREBASE
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
